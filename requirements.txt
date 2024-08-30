@@ -1,0 +1,14 @@
+amid
+connectome
+deli
+deep_pipe
+imops
+joblib
+lazycon
+nibabel
+numpy
+tqdm
+pandas
+scikit-image
+scikit-learn
+scipy
